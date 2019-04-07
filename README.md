@@ -15,6 +15,7 @@ This idea was inspired with the desire to make my own way of communicating with 
 TODO |
 --- |
 Add Outside Network Connection Functionality |
+Add Login backend to UI |
 Design Chat UI |
 Design Server UI |
 ~~Design Login UI~~ |
