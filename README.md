@@ -4,7 +4,7 @@ GrootCHAT allows friends to chat with each other wheverever they are whenever. (
 This idea was inspired with the desire to make my own way of communicating with my friends over our own personal application.
 
 ### Execution:
-+ Start the client
++ Start the Chat.jar file
 + Login with your username
 + ???
 + Profit
