@@ -5,11 +5,13 @@ This idea was inspired with the desire to make my own way of communicating with 
 
 ### Execution:
 + Start the Chat.jar file
-+ Login with your username
++ Start the GrootServer.jar file and Click Start
++ Login with your username and Connect
 + ???
 + Profit
 ***
 ![ChatGUI](https://github.com/basuamlk/GrootCHAT/blob/master/GrootChatGUI.png "GrootChatGUI")
+![GrootServer](https://github.com/basuamlk/GrootCHAT/blob/master/GrootServerGUI.png "GrootServer")
 
 #### TODO-List
 TODO |
